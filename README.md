@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ciara 👋
 
-<!--
-**Lifebalance247/Lifebalance247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m transitioning into data analysis and machine learning, with a focus on AI evaluation and real-world problem solving.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Data Analysis
+- Machine Learning (Scikit-learn)
+- NLP (TF-IDF)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Spam Email Classifier (ML + Streamlit App)
+
+## 🌐 Links
+- GitHub: https://github.com/Lifebalance247
+- Live App: https://spam-classifier-k8bdizw3zurjw5lywkwfdd.streamlit.app/
