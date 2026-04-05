@@ -6,6 +6,12 @@
 
 I am building real-world projects in data analysis and machine learning, focusing on solving practical problems using Python and modern tools.
 
+## 🚀 Featured Projects
+
+- 📧 Spam Classifier (NLP)
+- 🏠 House Price Prediction (Regression)
+- 📊 Data Analysis Dashboard (Coming Soon)
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Lifebalance247&theme=tokyonight)
