@@ -31,16 +31,18 @@ I am building real-world projects in data analysis and machine learning, focusin
 ## 📊 Projects
 
 ### 📧 Spam Email Classifier
-- Built NLP-based model using TF-IDF and Naive Bayes  
-- Achieved ~95% accuracy  
+- Built NLP-based spam detection model using TF-IDF and Naive Bayes  
+- Achieved ~95% accuracy on real-world SMS dataset
+- Developed and deployed interactive Streamlit web app
 - 🌐 Live App: https://spam-classifier-k8bdizw3zurjw5lywkwfdd.streamlit.app/  
 - 🔗 GitHub: https://github.com/Lifebalance247/spam-classifier
 
 ---
 
 ### 🏠 House Price Predictor
-- Built regression model using Linear Regression  
-- Performed data cleaning and visualization  
+- Built regression model using Linear Regression to predict housing prices  
+- Performed data cleaning, feature selection, and visualization
+- Created interactive Streamlit app for real-time predictions
 - 🌐 Live App: https://house-price-predictor-sanm4qb8q5ffc8umjzqj5t.streamlit.app/  
 - 🔗 GitHub: https://github.com/Lifebalance247/house-price-predictor
 
