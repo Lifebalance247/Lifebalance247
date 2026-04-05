@@ -6,12 +6,6 @@
 
 I am building real-world projects in data analysis and machine learning, focusing on solving practical problems using Python and modern tools.
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Lifebalance247&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifebalance247&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400">
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Lifebalance247&theme=tokyonight)
