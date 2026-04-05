@@ -8,13 +8,9 @@ I am building real-world projects in data analysis and machine learning, focusin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lifebalance247&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Lifebalance247&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<p align="center">
-  <img src="https://github-readme-stats.https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lifebalance247&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifebalance247&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 ## 🔥 Streak Stats
 
