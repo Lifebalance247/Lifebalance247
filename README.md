@@ -11,6 +11,7 @@ I am building real-world projects in data analysis and machine learning, focusin
 <img src="https://github-readme-stats.vercel.app/api?username=Lifebalance247&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifebalance247&layout=compact&theme=tokyonight" />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lifebalance247&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lifebalance247&layout=compact&theme=tokyonight" />
