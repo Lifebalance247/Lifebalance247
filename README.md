@@ -14,8 +14,7 @@ I am building real-world projects in data analysis and machine learning, focusin
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lifebalance247&theme=tokyonight)
 ---
 
 ## 🧠 Skills
